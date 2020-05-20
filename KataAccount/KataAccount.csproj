@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankAccount.cs" />
-    <Compile Include="Historique.cs" />
     <Compile Include="Operation.cs" />
     <Compile Include="OperationForm.cs">
       <SubType>Form</SubType>
