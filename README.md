@@ -1,5 +1,5 @@
 # KataAccount
-1- Mettre le répertoire 'KataAccount' de l'application à la racine du lecteur (C ou D ou ...).
+1- Mettre le répertoire parent 'KataAccount' de l'application à la racine du lecteur (C ou D ou ...).
 2- Chaque comptes sont identifiés par un identifiant et chaques fichiers nommés 'XXXXX_bankAccountHistory' 
 sont stockés les opérations effectuées associées aux comptes respectives où le XXXXX est l'identifiant du compte.
 3- Règle de gestion ajouté: 
