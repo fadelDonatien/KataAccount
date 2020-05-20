@@ -1,0 +1,9 @@
+E:\KataAccount\KataAccountTest\bin\Debug\KataAccountTest.dll
+E:\KataAccount\KataAccountTest\bin\Debug\KataAccountTest.pdb
+E:\KataAccount\KataAccountTest\bin\Debug\KataAccount.exe
+E:\KataAccount\KataAccountTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\KataAccount\KataAccountTest\bin\Debug\KataAccount.pdb
+E:\KataAccount\KataAccountTest\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\KataAccount\KataAccountTest\obj\Debug\KataAccountTest.csprojResolveAssemblyReference.cache
+E:\KataAccount\KataAccountTest\obj\Debug\KataAccountTest.dll
+E:\KataAccount\KataAccountTest\obj\Debug\KataAccountTest.pdb
