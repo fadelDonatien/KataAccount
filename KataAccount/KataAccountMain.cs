@@ -64,7 +64,7 @@ namespace KataAccount
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("BANK ACCOUNT KATA Application\n\n  © By Fadel Donatien 2020", "BANK ACCOUNT KATA", MessageBoxButtons.OK, MessageBoxIcon.Question);
+            MessageBox.Show("BANK ACCOUNT KATA Application\n\n  © By Fadel Donatien 2021", "BANK ACCOUNT KATA", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
     }
 }
